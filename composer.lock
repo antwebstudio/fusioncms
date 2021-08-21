@@ -1146,12 +1146,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/antwebstudio/fusion-cms.git",
-                "reference": "394fedad9394d07bc5aa728d58a3e4e32b687009"
+                "reference": "141373d2292f1d28ea67483a858d7eef77c3b2e1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/antwebstudio/fusion-cms/zipball/394fedad9394d07bc5aa728d58a3e4e32b687009",
-                "reference": "394fedad9394d07bc5aa728d58a3e4e32b687009",
+                "url": "https://api.github.com/repos/antwebstudio/fusion-cms/zipball/141373d2292f1d28ea67483a858d7eef77c3b2e1",
+                "reference": "141373d2292f1d28ea67483a858d7eef77c3b2e1",
                 "shasum": ""
             },
             "require": {
@@ -1245,7 +1245,7 @@
             "support": {
                 "source": "https://github.com/antwebstudio/fusion-cms/tree/antweb8"
             },
-            "time": "2021-05-25T14:04:56+00:00"
+            "time": "2021-08-21T14:54:01+00:00"
         },
         {
             "name": "google/apiclient",
@@ -9684,7 +9684,6 @@
                     "type": "github"
                 }
             ],
-            "abandoned": true,
             "time": "2020-09-28T06:45:17+00:00"
         },
         {
@@ -9858,5 +9857,5 @@
         "php": "^7.3|^8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "1.1.0"
 }

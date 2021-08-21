@@ -18,7 +18,7 @@ Modular at heart, FusionCMS provides the necessary launching platform to build o
 You will find robust, user friendly, and updated [documentation](https://beta.getfusioncms.com/docs) on our website. Some pages of interest to get started with are:
 
 - [Requirements](https://beta.getfusioncms.com/docs/requirements)
-- [Installing](https://beta.getfusioncms.com/docs/installing)
+- [Installing](docs/installing.md)
 - [Introduction To Themes](https://beta.getfusioncms.com/docs/themes)
 
 ## Versioning
